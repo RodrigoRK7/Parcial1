@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(194, 215, 253);
+}
+img {
+    width: 50%;
+    border-style: solid double;
+    border-width: 5px;
+    display:block;
+    margin:auto;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer {
+    margin-top: 50px;
+}
+span {
+    font-weight: bold;
+}
